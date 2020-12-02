@@ -1,0 +1,15 @@
+{
+  "name": "proxysscrapperjs",
+  "version": "1.0.0",
+  "description": "Little http proxy scrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amnesia",
+  "license": "ISC",
+  "dependencies": {
+    "agent": "^0.2.1",
+    "socks5-http-client": "^1.0.4"
+  }
+}
